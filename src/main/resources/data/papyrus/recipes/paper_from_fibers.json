@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "papyrus:fibers"
+    },
+    {
+      "tag": "papyrus:fibers"
+    },
+    {
+      "tag": "papyrus:fibers"
+    }
+  ],
+  "result": {
+    "item": "minecraft:paper",
+    "count": 1
+  }
+}
